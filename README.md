@@ -1,1 +1,5 @@
-# PwC-Simulation-KPI-and-Gender-focused-HR-Dashboard-by-Power-BI
+# PwC Simulation: KPI and Gender-focused HR Dashboard by Power BI
+I participated in a Power BI Job Simulation with PwC Switzerland, where I designed and implemented a Power BI dashboard to effectively visualize key performance indicators (KPIs) and metrics. The project focused on creating dashboards that provide insights into customer demographics, behavioral patterns, and HR metrics, with a dedicated emphasis on gender-related KPIs.
+
+## Call Center Dashboard [Link] (https://app.powerbi.com/groups/me/reports/5bd111a0-935c-4e54-a12b-f6197c4d336c/1a85146f032d8bda6fd2?experience=power-bi)
+The first dashboard, the Call Center Dashboard, was developed to monitor and analyze essential call center performance metrics, including the number of calls and customer satisfaction levels. Interactive filters enabled users to focus on specific agents, topics, or time periods, providing actionable insights into call center efficiency and customer service quality. This dashboard empowered stakeholders to identify performance trends, evaluate service levels, and make data-driven decisions to improve the overall customer experience.
